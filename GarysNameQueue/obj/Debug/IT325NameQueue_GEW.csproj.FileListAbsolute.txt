@@ -1,0 +1,10 @@
+C:\Users\gew557\source\repos\IT325NameQueue_GEW\obj\Debug\IT325NameQueue_GEW.csprojAssemblyReference.cache
+C:\Users\gew557\source\repos\IT325NameQueue_GEW\obj\Debug\IT325NameQueue_GEW.FormNameQueue.resources
+C:\Users\gew557\source\repos\IT325NameQueue_GEW\obj\Debug\IT325NameQueue_GEW.Properties.Resources.resources
+C:\Users\gew557\source\repos\IT325NameQueue_GEW\obj\Debug\IT325NameQueue_GEW.csproj.GenerateResource.cache
+C:\Users\gew557\source\repos\IT325NameQueue_GEW\obj\Debug\IT325NameQueue_GEW.csproj.CoreCompileInputs.cache
+C:\Users\gew557\source\repos\IT325NameQueue_GEW\bin\Debug\IT325NameQueue_GEW.exe.config
+C:\Users\gew557\source\repos\IT325NameQueue_GEW\bin\Debug\IT325NameQueue_GEW.exe
+C:\Users\gew557\source\repos\IT325NameQueue_GEW\bin\Debug\IT325NameQueue_GEW.pdb
+C:\Users\gew557\source\repos\IT325NameQueue_GEW\obj\Debug\IT325NameQueue_GEW.exe
+C:\Users\gew557\source\repos\IT325NameQueue_GEW\obj\Debug\IT325NameQueue_GEW.pdb
